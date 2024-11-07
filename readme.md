@@ -1,1 +1,1 @@
-Test
+This repository contains several demos of the use of the Azure OpenAI o1 model in the Scheduling/Allocation areas.  While I believe there will be great use of analytical/reasoning models for many OR use cases, these are very cross industry and will add value immediately to many organizations.

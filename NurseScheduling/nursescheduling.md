@@ -56,8 +56,7 @@ A schedule indicating which nurse is assigned to which shift on each day.
 Use this prompt to run the o1 model and generate a nurse schedule that meets the specified constraints.
 
 
-# Nurse Scheduling Problem
-create a problem that is complex and has many constraints, not generically but for a very specific example created below:
+# Nurse Scheduling Problem (specific to Mercy Hospital use case)
 
 ## Problem Description
 At Mercy hospital we have 5 nurses that need to be scheduled for the month of October 2024.  The nurses are:
